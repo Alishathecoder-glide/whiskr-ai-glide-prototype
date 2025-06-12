@@ -1,4 +1,3 @@
-![Screenshot 2025-06-11 193844](https://github.com/user-attachments/assets/254ab9a6-794a-47fa-b84f-8f93f2bc7682)
 # Whiskr.AI — Your AI Pet Care Companion
 
 ## Project Description  
@@ -35,6 +34,8 @@ https://github.com/user-attachments/assets/a253bce0-a004-4d30-b79d-57a4d4687065
 
 ![17496603433896488168106868295229](https://github.com/user-attachments/assets/fb81488c-2e23-4b12-a230-d2ceaee1f2b0)
 ![1749410075218](https://github.com/user-attachments/assets/ed5cf4bf-4d75-4e65-8d74-a3af3d0d9c81)
+[whiskr.AI Day 1.docx](https://github.com/user-attachments/files/20716096/whiskr.AI.Day.1.docx)
+![Screenshot 2025-06-11 193844](https://github.com/user-attachments/assets/938cce66-781a-49ac-ad0d-8a456cba9358)
 
 
 https://github.com/user-attachments/assets/e9206313-1563-41a6-ab80-254df5285c2d
@@ -45,4 +46,4 @@ https://github.com/user-attachments/assets/e9206313-1563-41a6-ab80-254df5285c2d
 
 Thank you for checking out Whiskr.AI!  
 Feel free to reach out for any questions or collaboration opportunities.
-[whiskr.AI Day 1.docx](https://github.com/user-attachments/files/20716096/whiskr.AI.Day.1.docx)
+
