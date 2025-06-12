@@ -1,3 +1,4 @@
+![Screenshot 2025-06-11 193844](https://github.com/user-attachments/assets/254ab9a6-794a-47fa-b84f-8f93f2bc7682)
 # Whiskr.AI — Your AI Pet Care Companion
 
 ## Project Description  
@@ -44,3 +45,4 @@ https://github.com/user-attachments/assets/e9206313-1563-41a6-ab80-254df5285c2d
 
 Thank you for checking out Whiskr.AI!  
 Feel free to reach out for any questions or collaboration opportunities.
+[whiskr.AI Day 1.docx](https://github.com/user-attachments/files/20716096/whiskr.AI.Day.1.docx)
