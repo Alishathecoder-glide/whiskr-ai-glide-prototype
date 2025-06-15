@@ -3,8 +3,6 @@
 ## Project Description  
 Whiskr.AI is an AI-powered pet care assistant designed to help pet owners provide personalized and intelligent care for their pets. The app offers tailored advice on nutrition, health monitoring, behavior analysis, and daily reminders, making pet care easier and more efficient for busy owners.
 
-## Demo Video  
-[Watch Demo Video](file:///C:/Users/Alisha/Downloads/Recording%202025-06-12%20210308-VEED.mp4)
 
 ## Technologies Used  
 - Glide (for app frontend and user interface)  
