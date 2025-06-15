@@ -36,7 +36,10 @@ https://github.com/user-attachments/assets/a253bce0-a004-4d30-b79d-57a4d4687065
 ![1749410075218](https://github.com/user-attachments/assets/ed5cf4bf-4d75-4e65-8d74-a3af3d0d9c81)
 [whiskr.AI Day 1.docx](https://github.com/user-attachments/files/20716096/whiskr.AI.Day.1.docx)
 ![Screenshot 2025-06-11 193844](https://github.com/user-attachments/assets/938cce66-781a-49ac-ad0d-8a456cba9358)
-https://drive.google.com/file/d/14biWS-erbklVUoXKUM6clc9rGWaNU2I3/view?usp=drivesdk
+https://whiskrai-vhf3.glide.page/dl/d0a5f4
+https://drive.google.com/drive/folders/15_kI86mv6Op_LaqIzx2QYEXj0T-KM3ab
+
+
 
 https://github.com/user-attachments/assets/e9206313-1563-41a6-ab80-254df5285c2d
 
