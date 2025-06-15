@@ -23,14 +23,14 @@ Whiskr.AI is an AI-powered pet care assistant designed to help pet owners provid
 ---
 
 ## Repository Contents  
-- Prototype video from Glide  
+
 - Whiskers- AI PetCare Assistant Demo video  
 - Code snippets/configurations related to chatbot and integration  
 - Project planning and design documents 
 
 https://github.com/user-attachments/assets/a253bce0-a004-4d30-b79d-57a4d4687065
 
-![17496603433896488168106868295229](https://github.com/user-attachments/assets/fb81488c-2e23-4b12-a230-d2ceaee1f2b0)
+
 ![1749410075218](https://github.com/user-attachments/assets/ed5cf4bf-4d75-4e65-8d74-a3af3d0d9c81)
 [whiskr.AI Day 1.docx](https://github.com/user-attachments/files/20716096/whiskr.AI.Day.1.docx)
 ![Screenshot 2025-06-11 193844](https://github.com/user-attachments/assets/938cce66-781a-49ac-ad0d-8a456cba9358)
