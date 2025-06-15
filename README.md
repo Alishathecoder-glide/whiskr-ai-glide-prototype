@@ -28,7 +28,7 @@ Whiskr.AI is an AI-powered pet care assistant designed to help pet owners provid
 - Code snippets/configurations related to chatbot and integration  
 - Project planning and design documents 
 
-https://github.com/user-attachments/assets/a253bce0-a004-4d30-b79d-57a4d4687065
+
 
 ![1749410075218-removebg-preview](https://github.com/user-attachments/assets/de444b7a-041d-46da-a2f8-6fc3924e021a)
 
